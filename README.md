@@ -2,8 +2,9 @@
 <h1 align="center">Hola, me llamo <a href="https://cynth-04">Cynth-04</a> ⚡</h1>
 
 ## HOLAAAA.....:3
-SOBRE MI
-No soy programadora,graciaaaaaaaaaaaaaassssssssssssss.
+SOBRE MI: 🌱
+💬 No soy programadora,gracias.
+NEXT...
 
 
 
