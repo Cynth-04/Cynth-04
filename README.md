@@ -1,7 +1,7 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://cynth-04">Cynth-04</a> ⚡</h1>
+<h1 align="center">Hola, me llamo <a href="https://cynth-04">Cynth-04</a> ⚡</h1>
 </div>
-<ing src="![foto margaritas](https://github.com/user-attachments/assets/3f825772-9d38-423f-a79f-c3513dfe508b)>
+<ing src="![foto margaritas](https://github.com/user-attachments/assets/3f825772-9d38-423f-a79f-c3513dfe508b)">
 
 ## HOLAAAA.....:V
 SOBRE MI
