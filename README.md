@@ -1,10 +1,10 @@
 <div align="center">
 <h1 align="center">Hola, me llamo <a href="https://cynth-04">Cynth-04</a> ⚡</h1>
-</div>
-<ing src=""C:\Users\cynth\Documents\foto.margaritas.jpg"">
 
-## HOLAAAA.....:V
+## HOLAAAA.....:3
 SOBRE MI
+No soy programadora,graciaaaaaaaaaaaaaassssssssssssss.
+
 
 
 
