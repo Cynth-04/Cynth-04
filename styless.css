@@ -1,0 +1,160 @@
+/* General */
+body {
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #fdf6f9;
+  color: #333;
+}
+
+h1, h2 {
+  font-family: 'Dancing Script', cursive;
+  color: #ff85b3;
+}
+
+a {
+  text-decoration: none;
+  color: #ff85b3;
+}
+
+/* Hero Section */
+.hero {
+  position: relative;
+  height: 100vh;
+  background: url('https://source.unsplash.com/1600x900/?pastel') no-repeat center center/cover;
+  text-align: center;
+  color: #fff;
+}
+
+.hero .overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.4);
+  z-index: 1;
+}
+
+.hero-content {
+  position: relative;
+  z-index: 2;
+  top: 50%;
+  transform: translateY(-50%);
+  padding: 0 2rem;
+}
+
+.hero h1 {
+  font-size: 3rem;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+.hero p {
+  font-size: 1.2rem;
+  margin: 1rem 0;
+}
+
+.hero .button {
+  display: inline-block;
+  padding: 0.8rem 1.5rem;
+  background: #ff85b3;
+  color: #fff;
+  border-radius: 25px;
+  font-weight: bold;
+  transition: all 0.3s ease;
+}
+
+.hero .button:hover {
+  background: #ff628c;
+  transform: scale(1.05);
+}
+
+/* About Section */
+.about {
+  text-align: center;
+  padding: 3rem 1rem;
+  background: #fff;
+}
+
+.about h2 {
+  font-size: 2.5rem;
+}
+
+.about p {
+  font-size: 1.2rem;
+  line-height: 1.6;
+  margin: 1rem 0;
+  color: #666;
+}
+
+/* Projects Section */
+.projects {
+  padding: 3rem 1rem;
+  background: #fdf6f9;
+}
+
+.projects h2 {
+  text-align: center;
+  font-size: 2.5rem;
+  margin-bottom: 2rem;
+}
+
+.project-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2rem;
+}
+
+.project-card {
+  background: #fff;
+  border-radius: 15px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+  text-align: center;
+  padding: 2rem;
+  width: 280px;
+  transition: transform 0.3s ease;
+}
+
+.project-card:hover {
+  transform: scale(1.05);
+}
+
+.project-icon {
+  font-size: 2rem;
+  color: #ff85b3;
+}
+
+.project-card h3 {
+  margin-top: 1rem;
+  font-size: 1.5rem;
+}
+
+.project-card p {
+  font-size: 1rem;
+  color: #666;
+}
+
+/* Contact Section */
+.contact {
+  text-align: center;
+  padding: 3rem 1rem;
+}
+
+.contact h2 {
+  font-size: 2.5rem;
+}
+
+.contact p {
+  font-size: 1.2rem;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  padding: 1rem;
+  background: #ff85b3;
+  color: #fff;
+}
+
+
