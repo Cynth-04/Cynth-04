@@ -15,13 +15,12 @@
     <a href="https://github.com/cynth-04" class="button" target="_blank">Explorar Mi GitHub 💻✨</a>
     
 Mis Intereses 🎨
-  🌸 Diseño gráfico y creatividad</li>
-      <li>💻 Programación y desarrollo web</li>
-      <li>🎶 Música y contenido estético</li>
-    </ul>
 
-    <h2>Contáctame 🌷</h2>
-    <p>Si quieres saber más, escríbeme: <a href="mailto:tu-email@example.com">tu-email@example.com</a></p>
+🌸 Diseño gráfico y creatividad
+💻 Programación y desarrollo web
+🎶 Música y contenido estético
+
+Contáctame 🌷
   </main>
   <footer>
     <p>&copy; 2024 Cynthia. 🌟 Creado con amor y creatividad 💕</p>
