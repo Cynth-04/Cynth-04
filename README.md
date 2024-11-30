@@ -1,88 +1,41 @@
+Hola![] (https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Mi nombre es Cynthia=Incuente=In=In=Nut=N=N=In=In=N=In=s=In=E=N=N=E=E= .
 
-<!DOCTYPE html>
-  </style>
-</head>
-<body>
-  <header>
-    <h1>✨ Bienvenid@s a mi espacio personal... 💖</h1>
-    <p>Hola, soy Cynthia 🌸 y aquí está mi espacio especial</p>
-  </header>
-  <main>
-    <h2>Sobre Mí 🌼</h2>
-    <p>Este es mi repositorio especial en GitHub, donde comparto mis proyectos favoritos y mi pasión por aprender cosas nuevas. ¡Espero que te inspire! 💡</p>
-    <a href="https://github.com/cynth-04" class="button" target="_blank">Explorar Mi GitHub 💻✨</a>
-    
-Mis Intereses 🎨
+✨Bienvenid@s a mi espacio personal...💖
+----------------------------------------
 
-🌸 Diseño gráfico y creatividad
-💻 Programación y desarrollo web
-🎶 Música y contenido estético
+Comparto mis proyectos favoritos y mi pasión por aprender cosas nuevas. ¡Espero que te inspire! 💡
 
-Contáctame 🌷
-  </main>
-  <footer>
-    <p>&copy; 2024 Cynthia. 🌟 Creado con amor y creatividad 💕</p>
-  </footer>
-</body>
-</html>
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Página personal aesthetic">
-  <title>✨ Mi Espacio Aesthetic 🌸</title>
-  <link rel="stylesheet" href="styles.css">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
-</head>
-<body>
-  <header class="hero">
-    <div class="overlay"></div>
-    <div class="hero-content">
-      <h1>✨ Bienvenida a Mi Universo 🌸</h1>
-      <p>Hola, soy <span class="highlight">[Tu Nombre]</span> 💻✨. Amante del diseño, la programación y los colores pastel 🌷.</p>
-      <a href="#about" class="button">Explorar 🌈</a>
-    </div>
-  </header>
+* ✉ Puede ponerse en contacto conmigo en [cynthializeth@gmail.com](mailto:cynthializeth@gmail.com)
+* 🧠 Estoy aprendiendo sobre el mundo de la programación...
+* 🤝 Estoy abierto a colaborar en Proyectos interesantes
+* ⚡ Diseño gráfico y creatividad 🌸
 
-  <main>
-    <section id="about" class="about">
-      <h2>Sobre Mí 🌸</h2>
-      <p>Soy una adolescente apasionada por el desarrollo web, el arte digital 🎨 y todo lo aesthetic. Aquí comparto mis proyectos más creativos y parte de mi mundo 🌷.</p>
-    </section>
+<a href="https://www.github.com/Cynth-04" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Cynth-04?logo=github&style=for-the-badge&color=0891b2&labelColor=312e81" /></a>
 
-    <section id="projects" class="projects">
-      <h2>Mis Proyectos 💻</h2>
-      <div class="project-grid">
-        <div class="project-card">
-          <i class="fas fa-code project-icon"></i>
-          <h3>Desarrollo Web 🌐</h3>
-          <p>Código limpio y diseños visuales atractivos 💖.</p>
-        </div>
-        <div class="project-card">
-          <i class="fas fa-palette project-icon"></i>
-          <h3>Diseño Gráfico 🎨</h3>
-          <p>Creaciones estéticas en colores pastel y minimalismo ✨.</p>
-        </div>
-        <div class="project-card">
-          <i class="fas fa-rocket project-icon"></i>
-          <h3>Innovación 🚀</h3>
-          <p>Proyectos creativos que fusionan tecnología y arte 🌟.</p>
-        </div>
-      </div>
-    </section>
+### habilidades
 
-    <section id="contact" class="contact">
-      <h2>Contáctame 💌</h2>
-      <p>¿Ideas o colaboraciones? Escríbeme: <a href="mailto:tu-email@example.com">tu-email@example.com</a></p>
-    </section>
-  </main>
+<p alineado="izquierda"> <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext.svg" width="36" height="36" alt="Sublime Text" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a> </p>
+### socials <p alineado="izquierda"> <a href="https://www.github.com/Cynth-04" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
-  <footer>
-    <p>&copy; 2024 [Tu Nombre] 🌸 | Hecho con amor y creatividad 💖</p>
-  </footer>
-</body>
-</html>
+### insignias
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Cynth-04"><img src="https://github-readme-stats.vercel.app/api?username=Cynth-04&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=0f172a&icon_color=0891b2&bg_color=312e81&hide_border=true&show_icons=true" alt="Cynth-04's GitHub stats" /></a>
+
+<a href="https://github.com/Cynth-04" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cynth-04&langs_count=10&title_color=ec4899&text_color=0f172a&icon_color=0891b2&bg_color=312e81&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### Support Me
+
+<ul style="list-style-type: none; margin: 0;">
+
+<li style="display: inline-block; margin-right: 0,25rem;"><a href="https://www.buymeacoffee.com/Cynth-04"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+
+<li style="display: inline-block; margin-right: 0,25rem;"><a href="https://www.ko-fi.com/Cynth-04"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
+
+</ul>
+
 <!--
 **Cynth-04/Cynth-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
