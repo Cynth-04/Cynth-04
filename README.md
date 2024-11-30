@@ -1,4 +1,4 @@
-Hola![] (https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Mi nombre es Cynthia=Incuente=In=In=Nut=N=N=In=In=N=In=s=In=E=N=N=E=E= .
+Hola![]"(https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)" Mi nombre es Cynthia.
 
 ✨Bienvenid@s a mi espacio personal...💖
 ----------------------------------------
