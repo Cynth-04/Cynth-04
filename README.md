@@ -1,6 +1,6 @@
 Hola! Mi nombre es Cynthia.
 
-✨Bienvenid@s a mi espacio personal...💖
+✨Bienvenid@s...💖
 ----------------------------------------
 
 Comparto mis proyectos favoritos y mi pasión por aprender cosas nuevas. ¡Espero que te inspire! 💡
