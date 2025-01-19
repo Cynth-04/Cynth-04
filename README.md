@@ -5,9 +5,9 @@ Hola! Mi nombre es Cynthia.
 
 Comparto mis proyectos favoritos y mi pasión por aprender cosas nuevas. ¡Espero que te inspire! 💡
 
-* ✉ Puede ponerse en contacto conmigo en [cynthializethpg@gmail.com](mailto:cynthializethpg@gmail.com)
+* ✉ Contacto [cynthializethpg@gmail.com](mailto:cynthializethpg@gmail.com)
 * 🧠 Estoy aprendiendo sobre el mundo de la programación...
-* 🤝 Estoy abierto a colaborar en Proyectos interesantes
+* 🤝 Estoy abierto a colaborar en Proyectos...
 * ⚡ Diseño gráfico y creatividad 🌸
 
 <a href="https://www.github.com/Cynth-04" target="_blank" rel="noreferrer"><img
