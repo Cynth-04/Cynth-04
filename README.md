@@ -1,4 +1,5 @@
-https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=CYNTHIA%20LIX
+https://capsule-render.vercel.app/api? tipo=ondulación&altura=300&color=gradiente&texto=Texto%20de%20entrada
+
 
 Hola! Mi nombre es Cynthia.
 
