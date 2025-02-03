@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontColor=d6ace6)
+https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=CYNTHIA%20LIX
 
 Hola! Mi nombre es Cynthia.
 
